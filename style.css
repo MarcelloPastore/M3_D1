@@ -1,0 +1,51 @@
+* {
+    scroll-behavior: smooth;
+}
+/* ! esercizio 1 */
+.jumbotron .col-md-6 h1 {
+    /* color:red; */
+}
+/* ! esercizio 2 */
+nav {
+    /* color: red; */
+}
+/* ! esercizio 3 */
+.lead a {
+    /* color: red; */
+}
+/* ! esercizio 4 */
+.blog-post:first-of-type {
+    /* background-color: red; */
+}
+/* ! esercizio 5 */
+.blog-post:first-of-type hr {
+    /* background-color: red; */
+}
+/* ! esercizio 6 */
+nav span:nth-of-type(even) {
+    /* background-color: red; */
+}
+/* ! esercizio 7 */
+.blog-sidebar .p-4:nth-of-type(2) ol li {
+    /* background-color: red; */
+}
+/* ! esercizio 8 */
+.blog-post:nth-of-type(2) .blog-post-meta a {
+    /* background-color: red; */
+}
+/* ! esercizio 9 */
+.blog-post:nth-of-type(3) ul li:nth-of-type(2) {
+    /* background-color: red; */
+}
+/* ! esercizio 10 */
+body>a:last-of-type {
+    /* background-color: red; */
+}
+/* ! esercizio 11 */
+.blog-pagination a:last-of-type {
+    /* background-color: red; */
+}
+/* ! esercizio 12 */
+footer p a:last-of-type {
+    /* background-color: red;  */
+}
